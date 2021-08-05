@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div id="root">
+    <div id="main">
        <p>I am learning React. My life is getting better.</p>
     </div>
   );
